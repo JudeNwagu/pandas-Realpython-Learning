@@ -1,0 +1,8 @@
+,Name,City,Gender,Salary,Occupation,Age,Py-score
+101,Ada,Paris,female,"$100,000",data scientist,41,88.0
+102,Ann,Toronto,female,"$95,000",digital markter,28,79.0
+103,Chima,California,male,"$120,000",data engineer,33,81.0
+104,Obi,Shanghai,male,"$85,000",product manager,34,80.0
+105,Stacey,Manchester,female,"$97,000",ui/ux designer,38,68.0
+106,Ola,Cairo,"$98,000",female,software engineer,31,61.0
+107,Lyon,Osaka,"$96,000",male,project manager,37,84.0
