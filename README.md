@@ -9,16 +9,16 @@ The goal of this project is to understand how pandas DataFrames work and practic
 
 ---
 
-
+```
 pandas-learning/
-- │
-- ├── notebooks/
-- │   └── pandas_practice.ipynb
-- │
-- ├── datasets/
-- │
-- └── README.md
-
+ │
+ ├── notebooks/
+ │   └── pandas_practice.ipynb
+ │
+ ├── datasets/
+ │
+ └── README.md
+```
 - notebooks/ contains my Jupyter notebook where I practiced the concepts.
 - datasets/ will contain sample datasets used for experimentation.
 
